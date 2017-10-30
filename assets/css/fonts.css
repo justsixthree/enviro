@@ -25,13 +25,3 @@
          url('../fonts/RobotoCondensedBold_0.ttf') format('truetype'),
          url('../fonts/RobotoCondensedBold_0.svg#RobotoCondensedBold_0') format('svg');
 }
-/*@font-face { 
-    font-family: "prioticket-website"; 
-    src: url("../fonts/prioticket-website.eot"); 
-    src: url("../fonts/prioticket-websited41d.eot?#iefix") format("embedded-opentype"), 
-         url("../fonts/prioticket-website.woff") format("woff"), 
-         url("../fonts/prioticket-website.ttf") format("truetype"), 
-         url("../fonts/prioticket-website.svg#prioticket-website") format("svg"); 
-    font-weight: normal; 
-    font-style: normal;
-}*/
